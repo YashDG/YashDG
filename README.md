@@ -1,6 +1,6 @@
 - 👋# Hi there, I'm Yash Gorecha! 👋
 
-Aspiring **Software Developer** and **Data Analyst** based in **Vadodara, Gujarat**.  
+Aspiring **Software Developer** and **Data Analyst**
 I am passionate about building efficient software solutions and uncovering insights through data.
 
 ---
@@ -21,7 +21,7 @@ I am passionate about building efficient software solutions and uncovering insig
 ---
 
 ### 📫 Connect with Me
-- Email: yashgorecha@email.com
+- Email: yashgorecha@gmail.com
 - LinkedIn: [linkedin.com/in/yashdg](https://linkedin.com/in/yashdg)
 
 ---
